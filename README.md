@@ -44,7 +44,7 @@ Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enha
 ## 🌐 Connect with Me
 
 - **GitHub Discussions:** [Start a conversation](https://github.com/6tab)
-- **Twitter:** [@](https://twitter.com/6tabb)
+- **Twitter:** [@](https://twitter.com/6tabb)[6tabb](https://twitter.com/6tabb)
 - **Discord:** [Join the server](https://discord.gg/REy3Fg8579)
 
 ---
