@@ -34,7 +34,7 @@ Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enha
 
 1. **GeoGuessr Country Info Enhanced**\
    Userscript to enhance GeoGuessr with real-time data and sleek features.\
-   ➡️ [Explore](https://github.com/6tab/Geoguessr-Training-Tool)
+   ➡️ [Explore](https://github.com/6tab?tab=repositories)
 
 2. **Other Projects Coming Soon**
    Stay tuned!
