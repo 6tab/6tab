@@ -19,7 +19,7 @@ Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enha
 
 ### **Geoguessr-Training-Tool**
 
-- **Version:** 2.6
+- **Version:** 3.3
 - An advanced userscript that helps boost GeoGuessr gameplay with features like:
   - Dynamic country and region info
   - Tabbed interface for easy navigation
