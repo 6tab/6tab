@@ -10,23 +10,16 @@ Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enha
 
 - **Programming Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks & Libraries:** None (lightweight custom-built solutions)
-- **APIs:** OpenStreetMap, REST Countries, Flagcdn
-- **Specialty:** Building highly optimized and user-friendly scripts
 
 ---
 
 ## 📌 Featured Project
 
-### **Geoguessr-Training-Tool**
+### **Youtube-Downloader**
 
-- **Version:** 3.3
-- An advanced userscript that helps boost GeoGuessr gameplay with features like:
-  - Dynamic country and region info
-  - Tabbed interface for easy navigation
-  - Enhanced visuals and sound effects
-  - Customizable settings
+- **Version:** 1.0
 
-➡️ [View the Project](https://github.com/6tab/Geoguessr-Training-Tool)
+➡️ [View the Project](https://github.com/6tab/youtube-downloader-gui)
 
 ---
 
@@ -46,16 +39,6 @@ Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enha
 - **GitHub Discussions:** [Start a conversation](https://github.com/6tab)
 - **Twitter:** [@](https://twitter.com/6tabb)[6tabb](https://twitter.com/6tabb)
 - **Discord:** [Join the server](https://discord.gg/REy3Fg8579)
-
----
-
-## 🎉 Acknowledgments
-
-Special thanks to the communities and APIs that make my projects possible:
-
-- **OpenStreetMap**: Providing accurate location data
-- **REST Countries**: Supplying rich country information
-- **Flagcdn**: Delivering high-quality flag assets
 
 ---
 
