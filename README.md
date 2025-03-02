@@ -10,7 +10,7 @@
   - [https://github.com/6tab/youtube-downloader-gui](https://github.com/6tab/youtube-downloader-gui)
 
 
-### Languages of destruction:
+### Languages:
 ```
 JavaScript | Python | HTML | CSS
 ```
