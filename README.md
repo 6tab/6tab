@@ -1,46 +1,25 @@
-# Welcome to 6tab's GitHub Profile
+# ✧・━━━━━━━━━━━━━━━━━━・✦
 
-## 🌟 About Me
+"Ashes to ashes, dust to dust— yet within the void, code emerges."
 
-Hi! I'm **6tab**, a developer dedicated to creating tools and scripts, that enhance user experiences. My work ranges from browser scripts to dynamic tools, and I'm always exploring new ways to innovate.
+## ♱ 6tab ♱
 
----
+### Feautred Project:
 
-## 🛠️ Skills & Technologies
+- **Youtube-Downloader** - *pull content into your own void*
+  - [https://github.com/6tab/youtube-downloader-gui](https://github.com/6tab/youtube-downloader-gui)
 
-- **Programming Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries:** None (lightweight custom-built solutions)
 
----
+### Languages of destruction:
+```
+JavaScript | Python | HTML | CSS
+```
 
-## 📌 Featured Project
+### Connect with me:
+- Discord: [https://discord.gg/REy3Fg8579](https://discord.gg/REy3Fg8579)
+- Twitter: [@6tabb](https://twitter.com/6tabb)
+- [https://guns.lol/6tab](https://guns.lol/6tab)
 
-### **Youtube-Downloader**
+*"I don't create... I merely channel the void."*
 
-- **Version:** 1.0
-
-➡️ [View the Project](https://github.com/6tab/youtube-downloader-gui)
-
----
-
-## 📂 My Repositories
-
-1. **GeoGuessr Country Info Enhanced**\
-   Userscript to enhance GeoGuessr with real-time data and sleek features.\
-   ➡️ [Explore](https://github.com/6tab?tab=repositories)
-
-2. **Other Projects Coming Soon**
-   Stay tuned!
-
----
-
-## 🌐 Connect with Me
-
-- **GitHub Discussions:** [Start a conversation](https://github.com/6tab)
-- **Twitter:** [@](https://twitter.com/6tabb)[6tabb](https://twitter.com/6tabb)
-- **Discord:** [Join the server](https://discord.gg/REy3Fg8579)
-
----
-
-Thank you for visiting my GitHub profile. Feel free to explore, contribute, or just say hi!
-
+# ✦・━━━━━━━━━━━━━━━━━━・✧
